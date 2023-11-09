@@ -1,2 +1,2 @@
-# multi-Vendors-E-Commerce-Website
-multi Vendors E-Commerce Website my first project
+# Multi-Vendors-E-Commerce-Website
+Multi Vendors E-Commerce Website my first project
